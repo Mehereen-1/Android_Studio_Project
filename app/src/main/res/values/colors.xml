@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#8692f7</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="deep_pink">#FF1493</color>
+    <color name="salmon_pink">#FF91A4</color>
+    <color name="dusty_pink">#D8A7B1</color>
+
+    <color name="sky_blue">#87CEEB</color>
+    <color name="dodger_blue">#1E90FF</color>
+    <color name="steel_blue">#4682B4</color>
+
+    <color name="light_yellow">#FFF9C4</color>
+    <color name="lemon_yellow">#FFF176</color>
+    <color name="amber_yellow">#FFC107</color>
+    <color name="golden_yellow">#FFD700</color>
+
+    <color name="grey">#d2d2d2</color>
+
+    <color name="light_pink_50">#80FFB6C1</color>
+    <color name="pale_violet_red_50">#80DB7093</color>
+
+    <!-- 60% opacity -->
+    <color name="medium_pink_60">#99FFC0CB</color>
+
+    <!-- 70% opacity -->
+    <color name="hot_pink_70">#B3FF69B4</color>
+
+    <!-- 80% opacity -->
+    <color name="deep_pink_80">#CCFF1493</color>
+
+
+    <color name="light_sky_blue">#87CEFA</color>
+    <color name="powder_blue">#B0E0E6</color>
+    <color name="alice_blue">#F0F8FF</color>
+    <color name="light_sky_blue_transparent">#8087CEFA</color>
+
+
+    <!-- Medium Blue Shades -->
+    <color name="cornflower_blue">#6495ED</color>
+
+    <!-- Dark Blue Shades -->
+    <color name="royal_blue">#4169E1</color>
+    <color name="medium_blue">#0000CD</color>
+    <color name="navy_blue">#000080</color>
+
+    <!-- Muted Blue Shades -->
+    <color name="slate_blue">#6A5ACD</color>
+    <color name="cadet_blue">#5F9EA0</color>
+    <color name="teal_blue">#008080</color>
+
+    <!-- Vibrant Blue Shades -->
+    <color name="electric_blue">#7DF9FF</color>
+    <color name="turquoise_blue">#40E0D0</color>
+    <color name="cyan_blue">#00FFFF</color>
+</resources>

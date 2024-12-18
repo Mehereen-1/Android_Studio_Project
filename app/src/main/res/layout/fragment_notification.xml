@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:gravity="center"
+    android:background="@color/light_yellow">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Book Journey"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:padding="8dp"
+        />
+    <ImageView
+        android:id="@+id/imgFinishedBooks"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_finished_books"
+        android:contentDescription="Finished Books"
+        android:padding="8dp"
+        android:background="@drawable/circle_background"
+        android:clickable="true"
+        android:focusable="true" />
+
+    <ImageView
+        android:id="@+id/imgCurrentlyReading"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_currently_reading"
+        android:contentDescription="Currently Reading"
+        android:padding="8dp"
+        android:background="@drawable/circle_background"
+        android:layout_marginTop="16dp"
+        android:clickable="true"
+        android:focusable="true" />
+
+    <ImageView
+        android:id="@+id/imgWantToRead"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_want_to_read"
+        android:contentDescription="Want to Read"
+        android:padding="8dp"
+        android:background="@drawable/circle_background"
+        android:layout_marginTop="16dp"
+        android:clickable="true"
+        android:focusable="true" />
+</LinearLayout>

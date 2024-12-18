@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150626671564",
+    "project_id": "taletroveid",
+    "storage_bucket": "taletroveid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150626671564:android:8d1426e295230f80e9db69",
+        "android_client_info": {
+          "package_name": "com.example.taletrove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTBOur52CfoIcluTEkkKoz0cjXy6hUSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
